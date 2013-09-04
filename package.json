@@ -1,0 +1,9 @@
+{
+    "name": "picdown",
+    "version": "0.0.1",
+    "description": "Download the pictures",
+    "preferGlobal": "true",
+    "bin": { "pd": "index.js" },
+    "author": "iChard",
+    "engines": { "node": "*" }
+}
